@@ -31,7 +31,7 @@ To analyze Netflix's global content strategy by answering key business-style que
 ### 3. Content Type Breakdown
  - Movies: *6119 titles*
  - TV Shows: *2674 titles*
-   > Netflix leans heavily into short-form, bingeable content.
+   > Netflix leans heavily into short-form, binge-worthy content.
 
 ### 4. Most Popular Genres
 | Genre Combo                                       | Count                              |
@@ -56,7 +56,7 @@ To analyze Netflix's global content strategy by answering key business-style que
 
 ### 6. Average Movie Duration
 > *Average Movie Length: 99.57 mins*
-> Ideal for ~1.5-hour viewing windows. Outliers were flagged for review.
+> Ideal for ~1.5-hour viewing windows. Outliers were flagged as data quality concerns.
 
  ### 7. Longest Running TV Shows
  | Column                           | Missing Values           |
@@ -81,11 +81,13 @@ To analyze Netflix's global content strategy by answering key business-style que
 
 > Shows how important data cleaning is even in published datasets.
 
-## Final Reflection
+## Why This Project Matters
 This project proves that *SQL alone* can drive deep insights when used  with structure and purpose. By simulating a real-life analyst task from cleaning and wrangling to answering key business questions, this project demonstrates both technical fluency and critical thinking.
 
-## Connect
-I am always open to chat about data, analytics or new opportunities! Feel free to reach out via:
+## Let's Connect
+I'm actively building tools to uncover workplace insights through data. Feel free to reach out via:
  * GitHub (#https://github.com/Shrey0561)
  * LinkedIn (#https://www.linkedin.com/in/shreya-srinath-879a66205/)
-Looking forward to connecting and collaborating!
+
+
+I'm always up for conversations or new opportunities!
