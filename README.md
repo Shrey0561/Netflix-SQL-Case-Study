@@ -81,13 +81,17 @@ To analyze Netflix's global content strategy by answering key business-style que
 
 > Shows how important data cleaning is even in published datasets.
 
+## Case Study: Behind the Queries
+[Read the full case study](https://docs.google.com/document/d/1v0nIUuxNxiTiPsNWtdvXeOKIJabTFmtJuQ1BOnej7pw/edit?usp=sharing)
+
 ## Why This Project Matters
 This project proves that *SQL alone* can drive deep insights when used  with structure and purpose. By simulating a real-life analyst task from cleaning and wrangling to answering key business questions, this project demonstrates both technical fluency and critical thinking.
 
 ## Let's Connect
 I'm actively building tools to uncover workplace insights through data. Feel free to reach out via:
- * GitHub (#https://github.com/Shrey0561)
- * LinkedIn (#https://www.linkedin.com/in/shreya-srinath-879a66205/)
+ * [GitHub](https://github.com/Shrey0561)
+ * [LinkedIn](https://www.linkedin.com/in/shreya-srinath-879a66205/)
+ * [Notion](https://www.notion.so/Data-Analyst-Portfolio-221ebe151fdd801e9445e32590b67758?source=copy_link)
 
 
 I'm always up for conversations or new opportunities!
